@@ -23,5 +23,4 @@ looking for them again.
 
 ## Status
 
-🚧 Work in progress — built as a hands-on project to solidify Java 
-fundamentals 
+🚧 Work in progress 
